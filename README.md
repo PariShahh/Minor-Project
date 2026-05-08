@@ -82,7 +82,7 @@ Minor-Project/
 ## 👩‍💻 Author
 
 **Pari Shah** — Data Scientist  
-📍 Mumbai | AudvikLabs  
+📍 Mumbai
 🔗 [GitHub](https://github.com/PariShahh)
 
 ---
