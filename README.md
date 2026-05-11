@@ -82,8 +82,8 @@ Minor-Project/
 ## 👩‍💻 Author
 
 **Pari Shah** — Data Scientist  
-📍 Mumbai
-🔗 [GitHub](https://github.com/PariShahh)
+[LinkedIn](https://www.linkedin.com/in/pari-shahh) | 
+[GitHub](https://github.com/PariShahh)
 
 ---
 
